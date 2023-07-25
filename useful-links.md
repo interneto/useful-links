@@ -53,7 +53,7 @@
 
 # OS
 - [ArchLinux](https://archlinux.org/)
-- [Ubuntu]https://ubuntu.com/)
+- [Ubuntu](https://ubuntu.com/)
 - [Mac- Apple](https://www.apple.com/mac/)
 - [Windows](https://www.microsoft.com/en-us/windows)
 
