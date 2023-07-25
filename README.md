@@ -5,10 +5,10 @@ You can download the html of bookmarks with one of these options:
 
 1. Via curl
 ```sh
-$ curl https://raw.githubusercontent.com/interneto/useful-links/main/bookmarks.html --output bookmarks.html
+$ curl https://raw.githubusercontent.com/interneto/useful-links/main/useful-links.html --output useful-links.html
 
 # or just enter into the raw file and save with Ctrl + S
-https://raw.githubusercontent.com/interneto/useful-links/main/bookmarks.html
+https://raw.githubusercontent.com/interneto/useful-links/main/useful-links.html
 ```
 
 2. Via git (via https or ssh)
